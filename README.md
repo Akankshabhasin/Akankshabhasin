@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👯 I’m looking for opportunities.
 -->
+
+- 🔭 I’m currently working on Web
+- 💬 Ask me about Community management & Voice
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akankshabhasin)
+- 😄 Pronouns: She/Her💖
+- ⚡ Fun fact: I love Dancing & photography📷
