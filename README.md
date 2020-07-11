@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking for opportunities.
 -->
 
-I'm Akanksha Bhasin, final year undergraduate student.💻
-I'm a hackathon enthusiast and is passionate about Web & AI.
+I'm Akanksha Bhasin, final year undergraduate student.🙋
+
+I'm a hackathon enthusiast and is passionate about Web & AI.💻
 
 - 🔭 I’m currently working on Web
 - 💬 Ask me about Community management & Voice
