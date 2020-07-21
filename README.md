@@ -22,7 +22,7 @@ I'm a hackathon enthusiast and is passionate about Web & AI.💻
 
 - 🔭 I’m currently working on Web
 - 💬 Ask me about Community management & Voice
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akankshabhasin)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akankshabhasin) | [Twitter](https://twitter.com/Akii_20)
 - 😄 Pronouns: She/Her💖
 - 📃 Read out my blog on: [Medium](https://medium.com/age-of-awareness/2019-in-review-my-journey-a572371bb86b)
 - ⚡ Fun fact: I love Dancing & photography📷
