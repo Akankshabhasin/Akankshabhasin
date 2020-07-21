@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking for opportunities.
 -->
 
-I'm Akanksha Bhasin, final year undergraduate student pursuing my bachelor's in computer science and engineering.🙋
+I'm Akanksha Bhasin, final year undergraduate student pursuing my bachelor's in Computer Science and engineering.🙋
+
 I'm a hackathon enthusiast and I'm passionate about Web & AI.💻
 
 - 🔭 I’m currently working on Web
