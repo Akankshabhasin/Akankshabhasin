@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking for opportunities.
 -->
 
-I'm Akanksha Bhasin, final year undergraduate student.🙋
-I'm a hackathon enthusiast and is passionate about Web & AI.💻
+I'm Akanksha Bhasin, final year undergraduate student pursuing my bachelor's in computer science and engineering.🙋
+I'm a hackathon enthusiast and I'm passionate about Web & AI.💻
 
 - 🔭 I’m currently working on Web
 - 💬 Ask me about Community management & Voice
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akankshabhasin) | [Twitter](https://twitter.com/Akii_20)
-- 😄 Pronouns: She/Her💖
 - 📃 Read out my blog on: [Medium](https://medium.com/age-of-awareness/2019-in-review-my-journey-a572371bb86b)
+- 😄 Pronouns: She/Her💖
 - ⚡ Fun fact: I love Dancing & photography📷
