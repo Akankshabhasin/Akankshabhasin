@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking for opportunities.
 -->
 
-I'm Akanksha Bhasin, final year undergraduate student pursuing my bachelor's in Computer Science and engineering.🙋<br/>
-I'm a hackathon enthusiast and I'm passionate about Web & AI.💻
+I'm Akanksha Bhasin, final year undergraduate student pursuing my Bachelor's in Computer Science and engineering.🙋<br/>
+I'm a community advocate,hackathon enthusiast and I'm passionate about Web & AI.💻
+ 
 
 - 🔭 I’m currently working on Web
 - 💬 Ask me about Community management & Voice
