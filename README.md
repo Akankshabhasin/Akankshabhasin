@@ -24,6 +24,6 @@ I'm a Tech Evangelist, community advocate, hackathon enthusiast and I'm passiona
 - 🔭 I’m currently working on Web
 - 💬 Ask me about Community management & Voice
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akankshabhasin) | [Twitter](https://twitter.com/Akii_20)
-- 📃 Read out my blog on: [Medium](https://medium.com/age-of-awareness/2019-in-review-my-journey-a572371bb86b)
+- 📃 Read out my blog on: [Medium](https://medium.com/age-of-awareness/2019-in-review-my-journey-a572371bb86b) | [Dev.to](https://dev.to/akankshabhasin)
 - 😄 Pronouns: She/Her💖
 - ⚡ Fun fact: I love Dancing & photography📷
